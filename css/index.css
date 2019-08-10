@@ -1,0 +1,24 @@
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    align-self: center;
+}
+
+#profile {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    height: 100vh;
+}
+
+#aboutMe {
+    display: grid;
+    padding-top: 100px;
+    background: gray;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    height: 100vh;
+}
