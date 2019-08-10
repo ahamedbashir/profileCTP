@@ -10,15 +10,25 @@ img {
     align-content: center;
     justify-content: center;
     justify-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #aboutMe {
     display: grid;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     background: gray;
     align-content: center;
     justify-content: center;
     justify-items: center;
-    height: 100vh;
+    min-height: 100vh;
+}
+
+#projects {
+    display: grid;
+    /* padding-top: 100px; */
+    background: gray;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    min-height: 100vh;
 }
